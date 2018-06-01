@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.7.2)
+  - KeychainAccess (3.1.1)
+  - Kingfisher (4.8.0)
+  - SwifterSwift (4.2.0):
+    - SwifterSwift/AppKit (= 4.2.0)
+    - SwifterSwift/CoreGraphics (= 4.2.0)
+    - SwifterSwift/CoreLocation (= 4.2.0)
+    - SwifterSwift/Foundation (= 4.2.0)
+    - SwifterSwift/MapKit (= 4.2.0)
+    - SwifterSwift/SwiftStdlib (= 4.2.0)
+    - SwifterSwift/UIKit (= 4.2.0)
+  - SwifterSwift/AppKit (4.2.0)
+  - SwifterSwift/CoreGraphics (4.2.0)
+  - SwifterSwift/CoreLocation (4.2.0)
+  - SwifterSwift/Foundation (4.2.0)
+  - SwifterSwift/MapKit (4.2.0)
+  - SwifterSwift/SwiftStdlib (4.2.0)
+  - SwifterSwift/UIKit (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - KeychainAccess (~> 3.0)
+  - Kingfisher (~> 4.0)
+  - SwifterSwift (~> 4.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - KeychainAccess
+    - Kingfisher
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  KeychainAccess: 7bd430028059754a3debab3cfc0bd1fc7fb85df3
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  SwifterSwift: 1d101dcfb0c3123226900f3b4d220d57fb60d546
+
+PODFILE CHECKSUM: 412b8e213daf018cd5602cdf496a75f09ff7d06d
+
+COCOAPODS: 1.5.2
