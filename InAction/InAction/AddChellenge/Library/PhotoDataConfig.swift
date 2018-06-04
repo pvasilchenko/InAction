@@ -26,7 +26,7 @@ final class PhotoDataConfig {
     
     var collectionViewWidth = CGFloat()
     
-    func setup(){
+    func setup() {
         requestOptions.isSynchronous = true
         requestOptions.deliveryMode = .highQualityFormat
         fetchOptions.sortDescriptors = [NSSortDescriptor(key: "creationDate", ascending: false)]

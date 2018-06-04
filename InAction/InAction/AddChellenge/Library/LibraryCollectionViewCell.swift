@@ -13,9 +13,14 @@ class LibraryCollectionViewCell: UICollectionViewCell {
  
     
     @IBOutlet weak var photoImageView: UIImageView!
+    @IBOutlet weak var imageSelector: UIImageView!
     
     func addPhoto(photo: UIImage) {
         photoImageView.image = photo
+    }
+    
+    func selectImage() {
+        imageSelector.isHidden = false
     }
     
 }

@@ -13,9 +13,9 @@ import UIKit
 
 class LibraryView: UIView {
 
+    @IBOutlet weak var collectionView: UICollectionView!
     
     @IBOutlet weak var imageView: UIImageView!
-    @IBOutlet weak var collectionView: UICollectionView!
     
     
     public weak var vc: AddChellengeViewController? {
